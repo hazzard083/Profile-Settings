@@ -1,0 +1,31 @@
+.container__card {
+  margin: 4.5rem auto;
+  width: 375px;
+  padding: 24px 24px 16px 24px;
+  gap: 24px;
+  border-radius: 12px;
+  background-color: var(--gray-500);
+}
+
+.container__user {
+  align-items: center;
+  gap: 16px
+}
+
+.container__options {
+  gap: 16px;
+}
+
+.options__account {
+  gap: 12px;
+}
+
+.item {
+  width: 100%;
+  justify-content: space-between;
+}
+
+.content__item {
+  gap: 8px;
+  padding: 8px 0;
+}
